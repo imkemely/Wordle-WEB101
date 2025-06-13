@@ -1,4 +1,4 @@
-# Project 1 - *Worlde*
+# Project 1 - *Wordle*
 
 Submitted by: **Kemely Alfonso Martinez**
 
