@@ -32,7 +32,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I accidentally deleted the project folder from my computer after recording the walkthrough video. The demo video shows the app working as intended, and I plan to re-upload the full code with the next assignment since it's a continuation of this project. Thank you for your understanding!
 
 ## License
 
